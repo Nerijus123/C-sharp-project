@@ -1,0 +1,12 @@
+c:\users\nerijus\documents\visual studio 2013\Projects\projectGUI\projectGUI\bin\Debug\projectGUI.exe.config
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\bin\Debug\projectGUI.exe
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\bin\Debug\projectGUI.pdb
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.Form1.resources
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.Properties.Resources.resources
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.csproj.GenerateResource.Cache
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.exe
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI\projectGUI\obj\Debug\projectGUI.pdb
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI2\projectGUI\bin\Debug\projectGUI.exe.config
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI2\projectGUI\obj\Debug\projectGUI.exe
+C:\Users\Nerijus\Documents\Visual Studio 2013\Projects\projectGUI2\projectGUI\obj\Debug\projectGUI.pdb
